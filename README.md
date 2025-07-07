@@ -39,7 +39,7 @@ Adjust the list of recipients in the script to suit your specific needs:
 - `RECEIVER2=username2 /SERVER:PCName2`
 - `RECEIVER3=username3 /SERVER:PCName3`
 
-These usernames and servers should correspond to the IT support personnel to be notified.
+These usernames and servers should correspond to the IT support users to be notified.
 
 ## Usage
 
