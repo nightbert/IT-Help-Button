@@ -1,6 +1,6 @@
 # IT Help Request Batch Script
 
-This batch script acts as a quick help button for employees in a company needing technical assistance. It allows users to send an automatic message to selected IT personnel within the company when they require help.
+This batch script acts as a quick help button for employees in a company needing technical assistance. It allows users to send an automatic message to selected IT support within the company when they require help.
 
 ## How It Works
 
